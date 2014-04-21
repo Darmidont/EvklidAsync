@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvclidAsync", "EvclidAsync\EvclidAsync.csproj", "{D5E3CC5E-C39A-4E77-9075-43D962517791}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimpleNumberCalculation", "MySimpleNumberCalculation\MySimpleNumberCalculation.csproj", "{B7A88CDC-AD27-4EA2-97B7-CDD6B5677292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateNumberMultithreads", "CalculateNumberMultithreads\CalculateNumberMultithreads.csproj", "{01D18380-8F09-4749-A244-61CDDE5B8BC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D5E3CC5E-C39A-4E77-9075-43D962517791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5E3CC5E-C39A-4E77-9075-43D962517791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5E3CC5E-C39A-4E77-9075-43D962517791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A88CDC-AD27-4EA2-97B7-CDD6B5677292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A88CDC-AD27-4EA2-97B7-CDD6B5677292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A88CDC-AD27-4EA2-97B7-CDD6B5677292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A88CDC-AD27-4EA2-97B7-CDD6B5677292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D18380-8F09-4749-A244-61CDDE5B8BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D18380-8F09-4749-A244-61CDDE5B8BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D18380-8F09-4749-A244-61CDDE5B8BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D18380-8F09-4749-A244-61CDDE5B8BC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
